@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.test-container {
+            margin: 10px;
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
